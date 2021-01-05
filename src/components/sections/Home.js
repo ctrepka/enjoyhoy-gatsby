@@ -21,9 +21,9 @@ const Home = () => (
                     <Typography gutterBottom variant={'body1'} component={'p'}>
                         Our mission is to help you make every day a breeze with companionship and concierge services.
                         All services, including transportation, can be provided with you, or for you!
-                    </Typography> 
+                    </Typography> <br/>
                     <Button variant="contained" color="secondary">
-                        Button Text
+                        <a href="https://www.facebook.com/enjoyhoy" style={{ color: 'white', textDecoration: 'none'}}>Schedule a consultation</a>
                     </Button>    
                 </Box>    
             </Grid>
