@@ -23,7 +23,7 @@ const Home = () => (
                         All services, including transportation, can be provided with you, or for you!
                     </Typography> <br/>
                     <Button variant="contained" color="secondary">
-                        <a href="https://www.facebook.com/enjoyhoy" style={{ color: 'white', textDecoration: 'none'}}>Schedule a consultation</a>
+                        <a href="https://www.facebook.com/enjoyhoy" style={{ color: 'white', textDecoration: 'none' }}>Schedule a consultation</a>
                     </Button>    
                 </Box>    
             </Grid>
